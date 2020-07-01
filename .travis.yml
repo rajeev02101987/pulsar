@@ -19,6 +19,9 @@
 
 dist: trusty 
 
+arch:
+  - arm64
+  - amd64
 language: java cpp 
 
 compiler: gcc
